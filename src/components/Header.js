@@ -1,11 +1,16 @@
 import React from 'react';
+import styled from 'styled-components';
 
 function Header() {
   return (
-    <div>
-      <h1>I am the header</h1>
-    </div>
+    <Container>
+      <a href='/images/logo.svg'>
+        <img src='/images/logo.svg' alt='' />
+      </a>
+    </Container>
   );
 }
 
 export default Header;
+
+const Container = styled.div``;
