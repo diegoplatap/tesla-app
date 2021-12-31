@@ -11,7 +11,9 @@ body {
   overflow-x: hidden;
   overflow: overlay;
 }
-
+a {
+  text-decoration: none;
+}
 body::-webkit-scrollbar {
   width: 17px;
 }
