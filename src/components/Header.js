@@ -7,7 +7,7 @@ function Header() {
       <a href='/images/logo.svg'>
         <img src='/images/logo.svg' alt='' />
       </a>
-      <Menu></Menu>
+      <Menu>Test</Menu>
     </Container>
   );
 }
