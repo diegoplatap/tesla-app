@@ -11,6 +11,7 @@ function Home() {
           backgroundImg='model-s.jpg'
           rightBtnText='Custom order'
           leftBtnText='Existing Invetory'
+          downButton={true}
         />
         <Section
           title='Model Y'
@@ -18,6 +19,7 @@ function Home() {
           backgroundImg='model-y.jpg'
           rightBtnText='Custom order'
           leftBtnText='Existing Invetory'
+          downButton={true}
         />
         <Section
           title='Model 3'
@@ -25,6 +27,7 @@ function Home() {
           backgroundImg='model-3.jpg'
           rightBtnText='Custom order'
           leftBtnText='Existing Invetory'
+          downButton={true}
         />
         <Section
           title='Model X'
@@ -32,6 +35,30 @@ function Home() {
           backgroundImg='model-x.jpg'
           rightBtnText='Custom order'
           leftBtnText='Existing Invetory'
+          downButton={true}
+        />
+        <Section
+          title='Lowest Cost Solar Panels in America'
+          description='Money-back guarantee'
+          backgroundImg='solar-panel.jpg'
+          rightBtnText='Order now'
+          leftBtnText='Learn more'
+          downButton={true}
+        />
+        <Section
+          title='Solar for New Roofs'
+          description='Solar Rood Costs Less Than a New Roof Plus Solar Panels'
+          backgroundImg='solar-roof.jpg'
+          rightBtnText='Order now'
+          leftBtnText='Learn more'
+          downButton={true}
+        />
+        <Section
+          title='Accessories'
+          description=''
+          backgroundImg='accessories.jpg'
+          leftBtnText='Shop now'
+          downButton={false}
         />
       </Container>
     </div>
