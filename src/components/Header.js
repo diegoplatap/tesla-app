@@ -7,6 +7,7 @@ function Header() {
       <a href='/images/logo.svg'>
         <img src='/images/logo.svg' alt='' />
       </a>
+      <Menu></Menu>
     </Container>
   );
 }
@@ -14,3 +15,5 @@ function Header() {
 export default Header;
 
 const Container = styled.div``;
+
+const Menu = styled.div``;
