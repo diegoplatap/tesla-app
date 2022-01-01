@@ -1,4 +1,4 @@
-## Checkout this awesome front-end clone of Tesla web page: [Click here](tesla-app.vercel.app)
+## Checkout this awesome front-end clone of Tesla web page: [Click here](https://tesla-app.vercel.app)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
